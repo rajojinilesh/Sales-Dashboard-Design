@@ -42,7 +42,3 @@ Power BI Desktop – for data visualization and dashboard creation
 Data Modeling – relationships, measures, and calculated columns
 
 Forecasting – time series forecasting for future sales trends
-
-📂 Project Structure
-├── sales.pdf              # Exported Power BI dashboard report
-├── README.md              # Project documentation
